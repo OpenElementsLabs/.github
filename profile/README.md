@@ -1,12 +1,12 @@
-## Hi there 👋
+![Logo-01](https://github.com/user-attachments/assets/aad25ad6-2c84-49e2-b93d-4f2513334406)
 
-<!--
+Welcome to the Labs organization of [Open Elements](https://open-elements.com).
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+### About Open Elements
+
+Open Elements is an IT company whose main focus is on the two points of Open Source Software (OSS) and Java. By focusing on these two points, we can provide our customers with expert advice and support in the development and use of Open Source Software. By specializing in Java-based OSS, we are members of the leading committees and foundations on these topics and actively contribute to the further development of critical open source systems in the Java ecosystem.
+
+<img width="846" alt="oss-meets-java" src="https://github.com/user-attachments/assets/f9abe642-99d0-4b91-8087-9400eccd5f35">
